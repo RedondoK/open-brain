@@ -1,0 +1,17 @@
+{
+  "name": "Bookmark Import",
+  "description": "Import browser bookmarks into Open Brain as searchable thoughts with URL and folder metadata.",
+  "category": "recipes",
+  "author": {
+    "name": "Test Contributor"
+  },
+  "version": "1.0.0",
+  "requires": {
+    "open_brain": true,
+    "services": [],
+    "tools": ["Node.js 18+"]
+  },
+  "tags": ["bookmarks", "import", "chrome", "firefox"],
+  "difficulty": "easy",
+  "estimated_time": "15 minutes"
+}
