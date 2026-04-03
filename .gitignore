@@ -14,3 +14,11 @@ sync-log.json
 
 # Build artifacts
 deno.lock
+
+# Secrets — never commit
+.env
+*.env
+*.key
+*.pem
+*.secret
+credentials.json
